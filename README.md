@@ -1,2 +1,1 @@
-# vchem.com
-erwg
+# vchemacademy.com
